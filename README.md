@@ -45,30 +45,8 @@ Desenvolvedor Full Stack com experiência em aplicações web modernas — do ba
 
 ---
 
-## 💼 Experiência Profissional
-
-**PixNoBicho** — Full Stack Developer *(Dez 2025 – atual)*
-Plataforma de iGaming com Next.js 15, React 19, TypeScript, Node.js (Express/Fastify), MongoDB, PostgreSQL, Redis, BullMQ, WebSockets e n8n.
-
-**Zr2 Perícias Forenses** — Programador Júnior *(Mai 2024 – Dez 2025)*
-PHP 8.2, CodeIgniter 4.5, JavaScript, jQuery, MySQL, Docker, VPS.
-
-**eTraduções** — Programador Júnior *(Fev 2023 – Mai 2024)*
-PHP (MVC/POO), JavaScript, jQuery, MySQL.
-
-**Excellent Sistemas** — Programador Júnior *(Fev 2022 – Jan 2023)*
-PHP (MVC), JavaScript, Bootstrap, MySQL.
-
----
-
-## 📊 Estatísticas
-
-![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=multimixbr&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=multimixbr&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📬 Contato
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(41)%209%209901--3896-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5541999013896)
 [![Email](https://img.shields.io/badge/muriloaugusto9988%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muriloaugusto9988@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-multimixbr-181717?style=flat&logo=github)](https://github.com/multimixbr)
