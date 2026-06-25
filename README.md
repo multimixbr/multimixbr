@@ -47,6 +47,6 @@ Desenvolvedor Full Stack com experiência em aplicações web modernas — do ba
 
 ## 📬 Contato
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(41)%209%209901--3896-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5541999013896)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2841%29%209%209901--3896-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5541999013896)
 [![Email](https://img.shields.io/badge/muriloaugusto9988%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muriloaugusto9988@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-multimixbr-181717?style=flat&logo=github)](https://github.com/multimixbr)
